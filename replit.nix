@@ -1,5 +1,6 @@
 {pkgs}: {
   deps = [
+    pkgs.gti
     pkgs.glibcLocales
     pkgs.glibc
   ];
